@@ -1,0 +1,13 @@
+.table{
+    border: none;
+
+}
+
+table tr td{
+    padding: 40px;
+    border: solid black;
+}
+
+.pintar{
+    background-color: black;
+}
