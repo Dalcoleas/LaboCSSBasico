@@ -1,0 +1,81 @@
+header{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+span.a{
+    font-family: 'Cabin Sketch', cursive;
+    color: green;
+}
+
+span.b{
+    font-family: 'Fredericka the Great', cursive;
+    color: black;
+}
+
+img{
+    text-align: center;
+    width: 300px; 
+    height: 300px;
+}
+
+a{
+    color: rgba(13, 52, 230, 0.788);
+    text-decoration: none;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2em;
+}
+
+nav{
+    text-align: center;
+}
+
+.nav{
+    display: inline-block;
+    padding: 2em;
+    margin: 0;
+}
+
+footer p{
+    font-family: 'Gloria Hallelujah', cursive, bold;
+    color: navy;
+}
+
+footer{
+    text-align: center;
+}
+
+footer p > a{
+    color: rgba(7, 199, 71, 1);
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'Gloria Hallelujah', cursive, bold;
+}
+
+
+.footer{
+    display: inline-block;
+    padding: 2em;
+}
+
+nav:hover > a.uno{
+    background-color:black;
+    color: white;
+
+}
+
+nav:hover > a.dos{
+    background-color:blue;
+    color: white;
+
+}
+nav:hover > a.tres{
+    background-color:green;
+    color: white;
+
+}
+
+nav:hover{
+    visibility: visible;
+}
+
