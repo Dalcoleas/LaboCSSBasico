@@ -59,7 +59,7 @@ footer p > a{
 }
 
 nav:hover > a.uno{
-    background-color:black;
+    background-color:rgb(196, 44, 44);
     color: white;
 
 }
